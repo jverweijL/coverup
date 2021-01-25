@@ -1,0 +1,10 @@
+apiDir: "../coverup-api/src/main/java"
+apiPackagePath: "com.liferay.demo.coverup.api"
+application:
+  baseURI: "/coverup"
+  className: "Coverup"
+  name: "Liferay.Demo.Coverup"
+author: "Jan Verweij"
+
+#clientDir: "../
+#testDir

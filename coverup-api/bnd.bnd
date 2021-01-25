@@ -1,0 +1,7 @@
+Bundle-Name: coverup-api
+Bundle-SymbolicName: coverup.api
+Bundle-Version: 1.0.0
+
+Export-Package:\
+	com.liferay.demo.coverup.api.dto.v1_0,\
+	com.liferay.demo.coverup.api.resource.v1_0

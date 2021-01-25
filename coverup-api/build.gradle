@@ -1,0 +1,11 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+}
+
+task('docker.deploy', type: Copy) {
+	group "custom"
+	dependsOn 'jar'
+	from "$buildDir/libs"
+	include "*.jar"
+	into "${custom_liferay_jar_deploy_dir}"
+}
