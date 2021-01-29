@@ -3,15 +3,11 @@
 ---
 # Coverup
 
-A basic description of my project.
+An example of a custom OpenAPI endpoint.
 
-Developed to run on the following versions of Liferay and/or Commerce: `Liferay DXP 7.3`, `Commerce 2.1.1`, `etc`
+![screenshot](postman.png)
 
-Built with [Liferay Workspace](https://help.liferay.com/hc/en-us/articles/360029147471-Liferay-Workspace) and [Blade CLI](https://help.liferay.com/hc/en-us/articles/360029147071-Blade-CLI).
-
-*Include an image or gif that represents your project*
-
-![screenshot](https://placedog.net/500?id=12)
+![screenshot2](postman2.png)
 
 ## How to Build and Deploy to Liferay
 
